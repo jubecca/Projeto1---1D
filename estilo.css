@@ -4,7 +4,10 @@
 body{
     background-color: rgb(193, 155, 187);
     color: rgb(0, 0, 0);
-    
+    font-family: "Roboto", sans-serif;
 }
 
-
+.cabecalho{
+    background-color: blueviolet;
+    text-align: center; 
+}
