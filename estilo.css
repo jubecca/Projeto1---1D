@@ -13,11 +13,18 @@ body{
 }
 
 .cabecalho{
-    background-color: blueviolet;
+    background-color: rgb(167, 127, 95);
     text-align: center; 
     padding: 20px;
 }
 .imagem-post{
     width: 80px;
     height: 80px;
+} 
+main{
+    background-color: brown;
+    color: bisque;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 16px;
 }
