@@ -7,7 +7,7 @@
 }
 
 body{
-    background-color: rgb(199, 163, 193);
+    background-color: rgb(168, 157, 151);
     color: rgb(255, 255, 255);
     font-family: "Roboto", sans-serif;
 }
@@ -27,4 +27,10 @@ main{
     max-width: 800px;
     margin: 0 auto;
     padding: 16px;
+}
+article{
+    display: flex;
+}
+.texto-post{
+    
 }
